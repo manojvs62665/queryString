@@ -1,0 +1,11 @@
+.car-item{
+
+}
+.car-list{
+    margin: 0 auto;
+    display: inline-flex;
+    width: 90%;
+}
+.car-image{
+    width: 300px;
+}
